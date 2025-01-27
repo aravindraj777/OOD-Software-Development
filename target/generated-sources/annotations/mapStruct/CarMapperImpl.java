@@ -1,12 +1,12 @@
 package mapStruct;
 
-import javax.annotation.Generated;
-
+/*
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-01-21T13:14:24+0530",
-    comments = "version: 1.6.3, compiler: javac, environment: Java 17.0.13 (Amazon.com Inc.)"
+    date = "2025-01-27T15:32:50+0530",
+    comments = "version: 1.6.3, compiler: javac, environment: Java 17.0.7 (Amazon.com Inc.)"
 )
+*/
 public class CarMapperImpl implements CarMapper {
 
     @Override
