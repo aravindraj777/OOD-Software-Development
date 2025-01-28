@@ -1,5 +1,7 @@
 package mapStruct.directField;
 
+import mapStruct.nestedBean.SubjectEntity;
+
 public class StudentEntity {
 
     private int id;

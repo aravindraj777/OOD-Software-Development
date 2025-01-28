@@ -4,6 +4,7 @@ import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
+
 @Mapper
 public interface StudentMapper {
 
@@ -17,5 +18,4 @@ public interface StudentMapper {
 
     @InheritInverseConfiguration
     StudentEntity getEntityFromModel(Student student);
-
 }
